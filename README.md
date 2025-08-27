@@ -68,11 +68,6 @@ The extension uses a content script that runs on all LinkedIn pages (`*.linkedin
 - **No storage permissions**: Doesn't store any data
 - **No tabs permissions**: Cannot access other browser tabs
 
-### Code Transparency
-- **Open source**: All code is visible and auditable
-- **No obfuscation**: Code is readable and well-commented
-- **No external dependencies**: No third-party libraries or scripts
-
 ## What Gets Blocked
 
 - Main LinkedIn feed posts and updates
